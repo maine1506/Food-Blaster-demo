@@ -10,7 +10,7 @@
 .idea/
 
 # IntelliJ Module File
-Food-Blaster.iml
+*.iml
 
 # VS Code Configuration Files
 # Ignores .vscode folders everywhere in the project tree.
