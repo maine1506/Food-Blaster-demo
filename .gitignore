@@ -1,17 +1,7 @@
-# Thư mục IDE
-.idea/
-*.iml
+# Cấu hình IDE
+/.idea/
+/.vscode/
+/Food-Blaster.iml
 
-# Thư mục build
+# Thư mục đầu ra/Biên dịch
 /out/
-target/
-
-# File log
-*.log
-
-# File hệ điều hành
-.DS_Store
-Thumbs.db
-
-# File tạm
-*.tmp
