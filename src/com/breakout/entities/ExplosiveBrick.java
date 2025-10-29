@@ -12,7 +12,7 @@ public class ExplosiveBrick extends Brick {
         super(x, y);
         this.bricks = bricks;
         this.explosionRadius = explosionRadius;
-        sprite = new ImageIcon("assets/explosiveBrick.png");
+        sprite = new ImageIcon("assets/images/explosiveBrick.png");
     }
 
     @Override

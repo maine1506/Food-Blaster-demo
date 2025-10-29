@@ -14,7 +14,7 @@ public class Brick extends GameObject {
     
     public Brick(double x, double y) {
         super(x, y, WIDTH, HEIGHT);
-        sprite = new ImageIcon("assets/brick.png");
+        sprite = new ImageIcon("assets/images/brick.png");
     }
     
     @Override

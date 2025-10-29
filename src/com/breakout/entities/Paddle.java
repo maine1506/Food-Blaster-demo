@@ -13,7 +13,7 @@ public class Paddle extends GameObject {
     
     public Paddle(double x, double y) {
         super(x, y, 100, 15); // Paddle size: 100x15 pixels
-        sprite = new ImageIcon("assets/paddle.png");
+        sprite = new ImageIcon("assets/images/paddle.png");
     }
     
     @Override

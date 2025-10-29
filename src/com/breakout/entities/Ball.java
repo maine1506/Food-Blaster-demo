@@ -14,7 +14,7 @@ public class Ball extends GameObject {
     
     public Ball(double x, double y) {
         super(x, y, 15, 15); // Ball size: 15x15 pixels
-        sprite = new ImageIcon("assets/ball.png");
+        sprite = new ImageIcon("assets/images/ball.png");
     }
     
     @Override
